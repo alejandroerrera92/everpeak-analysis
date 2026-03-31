@@ -1,4 +1,5 @@
 Análisis de Datos y Segmentación de Clientes para EverPeak Holdings 📊
+
 Este repositorio contiene un análisis exhaustivo de los datos transaccionales de EverPeak Holdings, realizado como parte del proceso de adquisición por parte de SilverBasket Retail Group. El objetivo principal es evaluar la calidad de los datos, identificar patrones de comportamiento de los clientes y desarrollar una segmentación estratégica.
 
 📋 Contenido
